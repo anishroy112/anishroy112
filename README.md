@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anishroy112
+- 👋 Hi, I’m Anish Roy.
 - 👀 I’m interested in Data analytics, Business Analytics, Power BI data visualixation Data Engineering, SQL 
 - 🌱 I’m currently learning Data Engineering and Data Visualisation..
 - 💞️ I’m looking to collaborate on Projects Regarding Data analysis and Data Engineering.
