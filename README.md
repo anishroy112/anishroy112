@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Engineering and Data Visualisation..
 - 💞️ I’m looking to collaborate on Projects Regarding Data analysis and Data Engineering.
 - 📫 How to reach me in :
--     LinkedIn link : https://www.linkedin.com/in/anish-roy-760611169
+-     LinkedIn link : https://www.linkedin.com/in/anish-roy-surjo
 -     Twitter link : https://twitter.com/AnishRoySurjo
   thank you..
   Have a great day..
