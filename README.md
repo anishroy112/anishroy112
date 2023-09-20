@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects Regarding Data analysis and Data Engineering.
 - 📫 How to reach me in :
 -     LinkedIn link : https://www.linkedin.com/in/anish-roy-surjo
--     Twitter link : https://twitter.com/AnishRoySurjo
+-     Twitter link : https://twitter.com/AnishRoySurjo1
   thank you..
   Have a great day..
   Cheers !!
